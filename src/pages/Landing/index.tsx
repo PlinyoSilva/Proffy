@@ -7,7 +7,7 @@ import studyIcon from '../../assets/images/icons/study.svg';
 import giveClassesIcon from '../../assets/images/icons/give-classes.svg';
 import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg';
 
-import './Styles.css'
+import './styles.css'
 
 import {Link} from 'react-router-dom';
 
